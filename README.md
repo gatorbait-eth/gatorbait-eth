@@ -17,10 +17,11 @@ const brad = {
   communities: {
                         BanklessDAO,
                         CitizenDAO,
-                        UnicornWitness
-                       
+                        UnicornWitness,
+                        BuildGuid
                         
-                      }
+                }
+                
 }
 ```
 
