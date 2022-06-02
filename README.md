@@ -11,14 +11,15 @@ Gm, gm
 
 
 ```javascript
-const brad = {
-  code: [Javascript, HTML, CSS, Python, Solidity],
-  tools: [React, Redux, Next, Node, MongoDB, Styled-Components, Tailwind, Truffle, Hardhat],
+const stack = {
+  code: [HTML, CSS, Javascript, Typescript ,Bash, Python, Solidity],
+  tools: [React, Redux, NextJS, NodeJS, Styled-Components, Tailwind, Truffle, Hardhat],
+  Network: [MongoDB, AWS, Cloudflare Workers]
   communities: {
                         BanklessDAO,
-                        CitizenDAO,
-                        UnicornWitness,
-                        BuildGuid
+                        CodeSportLabs,
+                        eGlote,
+                        BuidlGuidl
                         
                 }
                 
