@@ -1,7 +1,7 @@
 Gm, gm
-- 🧬 I'm a biochemist and EMT discovering software development
+- 🧬 I'm a biochemist and web3 developer
 - 👀 I’m interested in fintech and distributed systems
-- 🌱 I’m currently learning React and Solidity
+- 🌱 I’m currently learning Rust and Solidity
 - 📫 How to reach me: bradleymentzer@gmail.com
 
 
@@ -12,16 +12,15 @@ Gm, gm
 
 ```javascript
 const stack = {
-  code: [HTML, CSS, Javascript, Typescript ,Bash, Python, Solidity],
-  tools: [React, Redux, NextJS, NodeJS, Styled-Components, Tailwind, Truffle, Hardhat],
-  Network: [MongoDB, AWS, Cloudflare Workers]
-  communities: {
+  code: [HTML, CSS, Javascript, Typescript, Bash, Circom, Python, Solidity],
+  technologies: [Git, React, Redux, NextJS, NodeJS, Express, Styled-Components, Tailwind, Truffle, Hardhat, MongoDB,
+                 AWS, Cloudflare Workers, Jira],
+  communities: [
                         BanklessDAO,
                         CodeSportLabs,
                         eGlote,
                         BuidlGuidl
-                        
-                }
+                ]
                 
 }
 ```
