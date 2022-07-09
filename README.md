@@ -1,7 +1,8 @@
 Gm, gm
-- 🧬 I'm a biochemist and web3 developer
+- 🧬 I'm a web3 developer and biochemist
 - 👀 I’m interested in fintech and distributed systems
 - 🌱 I’m currently learning Rust and Solidity
+- 🌊 I'm at the beach surfing in my freetime
 - 📫 How to reach me: bradleymentzer@gmail.com
 
 
